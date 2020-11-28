@@ -8,3 +8,8 @@
  <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='50' weight='50'/>
  <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='50'  weight='50'/> 
 </p>
+
+<h3 align='center'> Currently Learning </h3>
+<p align='center'>
+<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg height='40' weight='40'/>
+</p>
