@@ -1,4 +1,5 @@
 ## Hello there! Manan Parmar here!
+![Profile Views](https://komarev.com/ghpvc/?username=meetsable&color=ff00ff&style=plastic)
 
 ## &#x1f4c8; GitHub Stats
 ![Manan's Github Stats](https://github-readme-stats.vercel.app/api?username=mananv1791&show_icons=true&count_private=true&theme=radical)
